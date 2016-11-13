@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\webBrowser\webBrowser\bin\Release\webBrowser.exe
+C:\Users\user\Desktop\webBrowser\webBrowser\bin\Release\webBrowser.pdb
+C:\Users\user\Desktop\webBrowser\webBrowser\obj\x86\Release\webBrowser.Form1.resources
+C:\Users\user\Desktop\webBrowser\webBrowser\obj\x86\Release\webBrowser.Properties.Resources.resources
+C:\Users\user\Desktop\webBrowser\webBrowser\obj\x86\Release\webBrowser.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\webBrowser\webBrowser\obj\x86\Release\webBrowser.exe
+C:\Users\user\Desktop\webBrowser\webBrowser\obj\x86\Release\webBrowser.pdb
